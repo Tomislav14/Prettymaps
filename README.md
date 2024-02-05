@@ -3,6 +3,7 @@
 Prettymaps is a Python library for creating visually appealing maps using OpenStreetMap data. It allows users to generate beautiful and stylized maps with ease.
 Prettymapp is based on a rewrite of the fantastic [prettymaps](https://github.com/marceloprates/prettymaps)  project by [@Marcelo Prates](https://github.com/marceloprates). All credit for the original idea, designs and implementation go to him. The prettymapp rewrite focuses on speed and adapted configuration to interface with the webapp. It drops more complex configuration options in favour of improved speed, reduced code complexity and simplified configuration interfaces. It is partially tested and adds a streamlit webapp component.
 
+![Alt text](https://github.com/Tomislav14/Prettymaps/blob/main/Split,%20Croatia.png?raw=true)
 
 ## Features
 
